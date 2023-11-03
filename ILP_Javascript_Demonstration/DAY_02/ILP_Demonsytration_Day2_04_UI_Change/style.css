@@ -1,0 +1,17 @@
+.button-main{
+    background-color: rgba(121, 213, 255, 0.692);
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+}
+
+.button-main.active{
+    background-color: darkblue;
+}
+
+.button-secondary{
+    background-color: rgb(8, 178, 169);
+    border: 2px solid darkgreen;
+    border-radius: 5px;
+    color: white;
+}
